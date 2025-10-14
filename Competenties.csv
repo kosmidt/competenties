@@ -133,17 +133,17 @@ prd_02.3,product,prd,expert,2,3,Op basis van een PVE maak je een product dat geh
 prd_03.3,product,prd,expert,3,3,"Je kunt je ontwerp verdedigen en blijft daarbij open, vriendelijk en geduldig."
 prd_04.3,product,prd,expert,4,3,"Je herkent snel de juiste keuze, motiveert deze, en overtuigt de ander."
 prd_05.3,product,prd,expert,5,3,Je kijkt constant terug naar de eisen die horen bij de opdracht.
-prc_06.1,proces,prc,basis,6,1,Voordat je begint verdiep je je in de opdracht.
-prc_01.1,proces,prc,basis,1,1,Je zoekt uit wat er van je verlangd wordt en welke stappen je moet doorlopen voordat je aan de opdracht begint.
-prc_02.1,proces,prc,basis,2,1,Je maakt keuzes aan het begin van je onderzoek en denkt na over de gevolgen.
-prc_03.1,proces,prc,basis,3,1,Je weet waarom je keuzes maakt en probeert de gevolgen in te schatten.
-prc_04.1,proces,prc,basis,4,1,Je communiceert over je onderzoek als dat gevraagd wordt.
-prc_05.1,proces,prc,basis,5,1,Je kunt uitleggen waar je mee bezig bent.
-prc_06.1,proces,prc,basis,6,1,"Tijdens je onderzoek, sluit je jezelf niet af voor nieuwe kansen of ontwikkelingen."
-prc_07.1,proces,prc,basis,7,1,Je kunt uitleggen waar je mee bezig bent.
-prc_08.1,proces,prc,basis,8,1,Je raakt niet van de wijs door nieuwe ontwikkelingen.
-prc_09.1,proces,prc,basis,9,1,Je houdt een logboek bij en verzamelt belangrijke documentatie in een dossiermap
-prc_10.1,proces,prc,basis,10,1,Je sorteert alle relevante informatie op overzichtelijke wijze.
+prc_01.1,proces,prc,basis,1,1,Voordat je begint verdiep je je in de opdracht.
+prc_02.1,proces,prc,basis,2,1,Je zoekt uit wat er van je verlangd wordt en welke stappen je moet doorlopen voordat je aan de opdracht begint.
+prc_03.1,proces,prc,basis,3,1,Je maakt keuzes aan het begin van je onderzoek en denkt na over de gevolgen.
+prc_04.1,proces,prc,basis,4,1,Je weet waarom je keuzes maakt en probeert de gevolgen in te schatten.
+prc_05.1,proces,prc,basis,5,1,Je communiceert over je onderzoek als dat gevraagd wordt.
+prc_06.1,proces,prc,basis,6,1,Je kunt uitleggen waar je mee bezig bent.
+prc_07.1,proces,prc,basis,7,1,"Tijdens je onderzoek, sluit je jezelf niet af voor nieuwe kansen of ontwikkelingen."
+prc_08.1,proces,prc,basis,8,1,Je kunt uitleggen waar je mee bezig bent.
+prc_09.1,proces,prc,basis,9,1,Je raakt niet van de wijs door nieuwe ontwikkelingen.
+prc_10.1,proces,prc,basis,10,1,Je houdt een logboek bij en verzamelt belangrijke documentatie in een dossiermap
+prc_11.1,proces,prc,basis,11,1,Je sorteert alle relevante informatie op overzichtelijke wijze.
 prc_01.2,proces,prc,gevorderd,1,2,Voordat je begint verzamel je zo veel mogelijk informatie over de opdracht.
 prc_02.2,proces,prc,gevorderd,2,2,Je ziet bijna nooit iets over het hoofd. Het komt bijna nooit voor dat jij iets vergeet.
 prc_03.2,proces,prc,gevorderd,3,2,Je let er op dat teamgenoten de stappen doorlopen die doorlopen moeten worden.
@@ -213,4 +213,5 @@ dzt_01.3,doorzetten,dzt,expert,1,3,Je bent erg gedisciplineerd: Het werk gaat bo
 dzt_02.3,doorzetten,dzt,expert,2,3,Je kunt zelf inschatten waar je kritiek op gaat krijgen en probeert het voor te zijn. Als je dan toch kritiek krijgt kijk je heel nauwkeurig of je de kritiek in je voordeel kunt gebruiken.
 dzt_03.3,doorzetten,dzt,expert,3,3,Je weet dat het eindresultaat telt en dat fouten maken erbij hoort. Je gaat door met je onderzoek.
 dzt_04.3,doorzetten,dzt,expert,4,3,Je bent altijd kalm en bedachtzaam. Je weet dat dat de beste manier is.
+
 dzt_05.3,doorzetten,dzt,expert,5,3,Je kunt je kalme en bedachtzame manier van werken overbrengen op anderen in je team.
