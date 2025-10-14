@@ -1,0 +1,216 @@
+uid,categorie,code,niveau,seq,sub,beschrijving
+swk_01.1,samenwerken,swk,basis,1,1,Je onderhoudt contact met groepsleden en docent of assistent.
+swk_02.1,samenwerken,swk,basis,2,1,Je werkt samen in het team en komt de afspraken na.
+swk_03.1,samenwerken,swk,basis,3,1,Je handelt in het belang van het team.
+swk_04.1,samenwerken,swk,basis,4,1,Bij conflicten meldt je dit aan je docent.
+swk_05.1,samenwerken,swk,basis,5,1,Je bent flexibel.
+swk_06.1,samenwerken,swk,basis,6,1,Je behandelt je teamgenoten met respect.
+swk_07.1,samenwerken,swk,basis,7,1,Je wordt niet boos of ontevreden wanneer anderen met ideeën komen.
+swk_08.1,samenwerken,swk,basis,8,1,Je staat open voor ideeën van anderen.
+swk_09.1,samenwerken,swk,basis,9,1,Je overlegt met je teamgenoten.
+swk_10.1,samenwerken,swk,basis,10,1,Je geeft zelf het goede voorbeeld.
+swk_01.2,samenwerken,swk,gevorderd,1,2,Je bent de leider van de groep.
+swk_02.2,samenwerken,swk,gevorderd,2,2,Je werkt actief aan het optimaal laten functioneren van je team.
+swk_03.2,samenwerken,swk,gevorderd,3,2,Bij een conflict probeer je het zelf op te lossen.
+swk_04.2,samenwerken,swk,gevorderd,4,2,Je bent tactvol.
+swk_05.2,samenwerken,swk,gevorderd,5,2,Je wordt niet boos als anderen jouw idee niet zo goed vinden.
+swk_06.2,samenwerken,swk,gevorderd,6,2,"Je herkent het beste idee, ook al heb jij het niet bedacht."
+swk_07.2,samenwerken,swk,gevorderd,7,2,Als teamleider stuur je overleg aan.
+swk_08.2,samenwerken,swk,gevorderd,8,2,Je zorgt ervoor dat je teamgenoten weten wat je aan het doen bent.
+swk_09.2,samenwerken,swk,gevorderd,9,2,Je maakt aantekeningen tijdens overleg.
+swk_01.3,samenwerken,swk,expert,1,3,Je onderhoudt contact met opdrachtgever.
+swk_02.3,samenwerken,swk,expert,2,3,Je handelt altijd in het belang van het team.
+swk_03.3,samenwerken,swk,expert,3,3,"Bij een conflict los je het zelf op, je speelt hierbij een actieve rol."
+swk_04.3,samenwerken,swk,expert,4,3,Je ziet conflicten aankomen en probeert ze voor te zijn.
+swk_05.3,samenwerken,swk,expert,5,3,Je kunt ieders belangen afwegen en snel kiezen voor het beste idee met het oog op het einddoel.
+swk_06.3,samenwerken,swk,expert,6,3,Je teamgenoten weten altijd wat je doet en waarom je dit doet.
+swk_07.3,samenwerken,swk,expert,7,3,Na een overleg deel je gemaakte aantekeningen met anderen.
+swk_08.3,samenwerken,swk,expert,8,3,Je controleert of anderen hun afspraken na komen.
+swk_09.3,samenwerken,swk,expert,9,3,Je gedraagt je altijd zoals je verwacht dan anderen zich ook gedragen.
+swk_10.3,samenwerken,swk,expert,10,3,Je praat en overlegt met andere teams om jullie resultaten te versterken.
+ind_01.1,individueel,ind,basis,1,1,Je kunt uitleggen wat je aan het doen bent.
+ind_02.1,individueel,ind,basis,2,1,Je kunt je fouten toegeven.
+ind_03.1,individueel,ind,basis,3,1,Je ziet het zelf als je iets goed gedaan hebt.
+ind_04.1,individueel,ind,basis,4,1,Je kunt zelf aan de slag met de vragen die gesteld worden tijdens een project.
+ind_05.1,individueel,ind,basis,5,1,Je wilt graag goede resultaten behalen.
+ind_06.1,individueel,ind,basis,6,1,Je bent kritisch op je eigen resultaten.
+ind_07.1,individueel,ind,basis,7,1,Je bent nieuwsgierig.
+ind_08.1,individueel,ind,basis,8,1,Je praat thuis en met vrienden over je project.
+ind_09.1,individueel,ind,basis,9,1,Je praat positief over je project.
+ind_10.1,individueel,ind,basis,10,1,In je vrije tijd vertel je anderen over je project en wat je aan het doen bent.
+ind_01.2,individueel,ind,gevorderd,1,2,Je kunt anderen uitleggen wat je gedaan hebt.
+ind_02.2,individueel,ind,gevorderd,2,2,Je weet waarom je dingen gedaan hebt.
+ind_03.2,individueel,ind,gevorderd,3,2,Je herkent de door jou gemaakte fouten zelf.
+ind_04.2,individueel,ind,gevorderd,4,2,Je kunt zelf bedenken waarom je iets goed of fout gedaan hebt.
+ind_05.2,individueel,ind,gevorderd,5,2,Je kunt zelfstandig aan de slag met zelf bedachte vragen.
+ind_06.2,individueel,ind,gevorderd,6,2,Als je een opdracht hebt zorg je ervoor dat je deze zoveel mogelijk zelfstandig maakt.
+ind_07.2,individueel,ind,gevorderd,7,2,Als je een opdracht niet af hebt blijf je daar over nadenken.
+ind_08.2,individueel,ind,gevorderd,8,2,Je wilt weten wat goed en wat fout gemaakt is.
+ind_09.2,individueel,ind,gevorderd,9,2,Je wilt graag feedback ontvangen.
+ind_10.2,individueel,ind,gevorderd,10,2,Je resultaten zetten je aan het denken.
+ind_11.2,individueel,ind,gevorderd,11,2,Je haalt nieuwe vragen uit je resultaten.
+ind_12.2,individueel,ind,gevorderd,12,2,Je bent on staat om je eigen (onderzoeks)resultaten te verwerken.
+ind_13.2,individueel,ind,gevorderd,13,2,Je kunt zelf bedenken wanneer een stap in je proces voor problemen zorgt.
+ind_14.2,individueel,ind,gevorderd,14,2,"Je staat open voor de mening, input en expertise van anderen wanneer je praat over je project."
+ind_01.3,individueel,ind,expert,1,3,Je maakt een plan voordat je aan de slag gaat.
+ind_02.3,individueel,ind,expert,2,3,Je kunt aangeven waarom je een bepaalde fout gemaakt hebt.
+ind_03.3,individueel,ind,expert,3,3,Je kunt terug kijken op wat je gedaan hebt en aangeven wat je de volgende keer anders zou doen.
+ind_04.3,individueel,ind,expert,4,3,Je kijkt kritisch naar jezelf en kijkt hoe je jezelf kunt verbeteren.
+ind_05.3,individueel,ind,expert,5,3,Je kunt onderzoeksvragen  beantwoorden.
+ind_06.3,individueel,ind,expert,6,3,Je kunt zelfstandig interessante vragen opstellen.
+ind_07.3,individueel,ind,expert,7,3,Je bent in staat om zelf een onderzoek op te zetten aan de hand van vragen die je zelf bedenkt.
+ind_08.3,individueel,ind,expert,8,3,Als je fouten gemaakt hebt wil je graag weten wat er anders (beter) had gemoeten.
+ind_09.3,individueel,ind,expert,9,3,Als er nieuwe vragen ontstaan zijn uit eerder behaalde resultaten dan werk je keihard om deze vragen te beantwoorden.
+ind_10.3,individueel,ind,expert,10,3,Je komt zelf op het idee om een stap terug te doen wanneer er resultaten verschijnen die anders zijn dan je verwacht.
+ind_11.3,individueel,ind,expert,11,3,Door jouw uitstraling komt het regelmatig voor dat anderen uit zichzelf met tips en adviezen komen met betrekking tot je project.
+pln_01.1,plannen,pln,basis,1,1,Je werkt stap voor stap en verliest je niet in details.
+pln_02.1,plannen,pln,basis,2,1,Je kunt een PVA maken voor een korte periode.
+pln_03.1,plannen,pln,basis,3,1,"Je werkt door, geconcentreerd en kalm. Je bent op tijd klaar."
+pln_04.1,plannen,pln,basis,4,1,Je kunt je werktempo verhogen zonder in de stress te schieten.
+pln_05.1,plannen,pln,basis,5,1,Je kunt onderdelen van de opdracht in kleinere stukjes verdelen.
+pln_06.1,plannen,pln,basis,6,1,- en de onderdelen in een goede volgorde afwerken
+pln_07.1,plannen,pln,basis,7,1,Je kunt een probleem opsplitsen in kleinere problemen.
+pln_08.1,plannen,pln,basis,8,1,Je verzamelt belangrijke documentatie in een dossiermap.
+pln_09.1,plannen,pln,basis,9,1,- en sorteert deze op overzichtelijke wijze.
+pln_10.1,plannen,pln,basis,10,1,Je weet wat belangrijk is en wat niet.
+pln_11.1,plannen,pln,basis,11,1,Je houdt je aan de planning.
+pln_12.1,plannen,pln,basis,12,1,Je houdt je eigen voortgang in de gaten.
+pln_01.2,plannen,pln,gevorderd,1,2,Je kunt een PVA maken voor een langere periode of project.
+pln_02.2,plannen,pln,gevorderd,2,2,Je kunt je werktempo  aanpassen wanneer dat nodig is.
+pln_03.2,plannen,pln,gevorderd,3,2,Je kunt onderdelen van de opdracht in kleinere stukjes verdelen en goed inschatten hoeveel tijd de stukjes kosten.
+pln_04.2,plannen,pln,gevorderd,4,2,Je kunt je zo verplaatsen in een opdracht dat je het probleem van de opdrachtgever ook echt ziet als probleem.
+pln_05.2,plannen,pln,gevorderd,5,2,Je houdt de aanwezige documentatie up to date.
+pln_06.2,plannen,pln,gevorderd,6,2,Je stelt prioriteiten voor jezelf en anderen.
+pln_01.3,plannen,pln,expert,1,3,Je kent en overziet het hele ontwerptraject en bewaakt de grote lijn.
+pln_02.3,plannen,pln,expert,2,3,Je ziet vooraf welk werktempo nodig is en handelt daarnaar.
+pln_03.3,plannen,pln,expert,3,3,Je kunt onderdelen van de opdracht in kleinere stukjes verdelen en hiermee aan de gang blijven als er meerdere taken door elkaar lopen.
+pln_04.3,plannen,pln,expert,4,3,"Je kunt ,rekening houdend met alle omstandigheden, snel problemen analyseren en oplossen."
+pln_05.3,plannen,pln,expert,5,3,Je weet wat documenteren is: je bezit alle relevante info en kunt die feilloos terugvinden.
+pln_06.3,plannen,pln,expert,6,3,Je plant door efficiënt taken te verdelen tussen een groot aantal anderen.
+inv_01.1,inventiviteit,inv,basis,1,1,Je zoekt naar verschillende oplossingen voor een probleem als dat gevraagd wordt.
+inv_02.1,inventiviteit,inv,basis,2,1,Je durft voor jouw idee op te komen.
+inv_03.1,inventiviteit,inv,basis,3,1,Je verdedigt jouw idee met argumenten.
+inv_04.1,inventiviteit,inv,basis,4,1,Je toont interesse in de onderwerpen die je bij de projecten tegen komt.
+inv_05.1,inventiviteit,inv,basis,5,1,"Je kunt eenvoudige dingen bedenken en aanpassen in je hoofd, eenvoudige schetsen maken, een eenvoudige tekening lezen en maken."
+inv_06.1,inventiviteit,inv,basis,6,1,Je kunt een projectie maken(recht en schuin) met maatvoering en op schaal.
+inv_07.1,inventiviteit,inv,basis,7,1,Je ontwerpt dingen die werken.
+inv_08.1,inventiviteit,inv,basis,8,1,Je let op het uiterlijk van het ontwerp
+inv_09.1,inventiviteit,inv,basis,9,1,Je vindt oplossing om vaak voorkomende problemen aan te pakken.
+inv_10.1,inventiviteit,inv,basis,10,1,Je improviseert.
+inv_11.1,inventiviteit,inv,basis,11,1,Je kijkt verder dan het meest voor de hand liggende.
+inv_12.1,inventiviteit,inv,basis,12,1,Je komt met voorstellen die goed gewerkt hebben in vergelijkbare situaties.
+inv_01.2,inventiviteit,inv,gevorderd,1,2,Je zoekt naar verschillende oplossingen.
+inv_02.2,inventiviteit,inv,gevorderd,2,2,Je bent niet bang iets geheel nieuws  te proberen.
+inv_03.2,inventiviteit,inv,gevorderd,3,2,je kunt aan je idee vasthouden zonder de samenwerking te benadelen (ruzie maken).
+inv_04.2,inventiviteit,inv,gevorderd,4,2,Je toont interesse in de onderwerpen die je bij de projecten tegen komt en je verdiept je echt in het onderwerp.
+inv_05.2,inventiviteit,inv,gevorderd,5,2,Je kunt simpele bouwtekeningen en 3D modellen maken.
+inv_06.2,inventiviteit,inv,gevorderd,6,2,Je ontwerpen zijn functioneel en aantrekkelijk (het werkt goed en is mooi).
+inv_07.2,inventiviteit,inv,gevorderd,7,2,Je legt verbanden tussen bestaande ideeën en / of gezichtspunten en vormt deze tot iets nieuws.
+inv_08.2,inventiviteit,inv,gevorderd,8,2,Je gebruikt bestaande ideeën / gebruiken in nieuwe modellen / werkwijzen.
+inv_09.2,inventiviteit,inv,gevorderd,9,2,"Je past bestaande producten, concepten of modellen toe in nieuwe probleemsituaties."
+inv_01.3,inventiviteit,inv,expert,1,3,Je zoekt altijd naar verschillende oplossingen.
+inv_02.3,inventiviteit,inv,expert,2,3,"Je zoekt altijd actief naar meerdere oplossingen voor een probleem, ook buiten de wereld die aansluit bij je project."
+inv_03.3,inventiviteit,inv,expert,3,3,Je weet wanneer je idee goed is en kunt de anderen hiervan overtuigen.
+inv_04.3,inventiviteit,inv,expert,4,3,Je kunt complexe bouwtekeningen en 3D modellen maken.
+inv_05.3,inventiviteit,inv,expert,5,3,Je ontwerpt dingen waarin vorm en functie hand in hand gaan.
+inv_06.3,inventiviteit,inv,expert,6,3,Je genereert nieuwe ideeën en oplossingen.
+inv_07.3,inventiviteit,inv,expert,7,3,Je ontwikkelt nieuwe methoden en technieken (ter vervanging van oude).
+inv_08.3,inventiviteit,inv,expert,8,3,Je gebruikt middelen die voorheen nog niet gebruikt werden.
+prd_01.1,product,prd,basis,1,1,Je luister aandachtig naar de opdrachtgever.
+prd_02.1,product,prd,basis,2,1,Je stelt vragen zodat je duidelijk weet wat de opdrachtgever wil.
+prd_03.1,product,prd,basis,3,1,Je vertrekt vanuit de eisen van de klant en niet vanuit je eigen fantasie.
+prd_04.1,product,prd,basis,4,1,Binnen de eisen zoek je naar de optimale oplossing: gebruik nu je fantasie.
+prd_05.1,product,prd,basis,5,1,Je kunt een ontwerp toelichten en de werking uitleggen. Ook vragen beantwoorden.
+prd_06.1,product,prd,basis,6,1,Je kunt op tijd een keuze maken en ook aanpassen.
+prd_07.1,product,prd,basis,7,1,Je kijkt regelmatig terug naar de eisen die horen bij de opdracht.
+prd_01.2,product,prd,gevorderd,1,2,Je weet wat de afspraken zijn en handelt daarnaar.
+prd_02.2,product,prd,gevorderd,2,2,Tussentijds controleer je altijd of het idee voldoet aan het PVE en stel je zo nodig bij.
+prd_03.2,product,prd,gevorderd,3,2,Je kunt duidelijk aangeven waarom voor een ontwerp gekozen is.
+prd_04.2,product,prd,gevorderd,4,2,Je kunt duidelijk aangeven waarom jouw product zo gemaakt is en niet anders.
+prd_05.2,product,prd,gevorderd,5,2,Je kunt een keuze verdedigen.
+prd_01.3,product,prd,expert,1,3,"Je communiceert actief, helder, stipt  en open naar de opdrachtgever."
+prd_02.3,product,prd,expert,2,3,Op basis van een PVE maak je een product dat geheel voldoet aan de wensen van de klant.
+prd_03.3,product,prd,expert,3,3,"Je kunt je ontwerp verdedigen en blijft daarbij open, vriendelijk en geduldig."
+prd_04.3,product,prd,expert,4,3,"Je herkent snel de juiste keuze, motiveert deze, en overtuigt de ander."
+prd_05.3,product,prd,expert,5,3,Je kijkt constant terug naar de eisen die horen bij de opdracht.
+prc_06.1,proces,prc,basis,6,1,Voordat je begint verdiep je je in de opdracht.
+prc_01.1,proces,prc,basis,1,1,Je zoekt uit wat er van je verlangd wordt en welke stappen je moet doorlopen voordat je aan de opdracht begint.
+prc_02.1,proces,prc,basis,2,1,Je maakt keuzes aan het begin van je onderzoek en denkt na over de gevolgen.
+prc_03.1,proces,prc,basis,3,1,Je weet waarom je keuzes maakt en probeert de gevolgen in te schatten.
+prc_04.1,proces,prc,basis,4,1,Je communiceert over je onderzoek als dat gevraagd wordt.
+prc_05.1,proces,prc,basis,5,1,Je kunt uitleggen waar je mee bezig bent.
+prc_06.1,proces,prc,basis,6,1,"Tijdens je onderzoek, sluit je jezelf niet af voor nieuwe kansen of ontwikkelingen."
+prc_07.1,proces,prc,basis,7,1,Je kunt uitleggen waar je mee bezig bent.
+prc_08.1,proces,prc,basis,8,1,Je raakt niet van de wijs door nieuwe ontwikkelingen.
+prc_09.1,proces,prc,basis,9,1,Je houdt een logboek bij en verzamelt belangrijke documentatie in een dossiermap
+prc_10.1,proces,prc,basis,10,1,Je sorteert alle relevante informatie op overzichtelijke wijze.
+prc_01.2,proces,prc,gevorderd,1,2,Voordat je begint verzamel je zo veel mogelijk informatie over de opdracht.
+prc_02.2,proces,prc,gevorderd,2,2,Je ziet bijna nooit iets over het hoofd. Het komt bijna nooit voor dat jij iets vergeet.
+prc_03.2,proces,prc,gevorderd,3,2,Je let er op dat teamgenoten de stappen doorlopen die doorlopen moeten worden.
+prc_04.2,proces,prc,gevorderd,4,2,Je kunt redelijk inschatten wat de gevolgen van jouw keuzes zijn.
+prc_05.2,proces,prc,gevorderd,5,2,Je communiceert over je onderzoek als dat gevraagd wordt en gebruikt daarbij de taal van de doelgroep of opdrachtgever.
+prc_06.2,proces,prc,gevorderd,6,2,Je communiceert zo veel mogelijk op doelgroep: ook in je uitleg.
+prc_07.2,proces,prc,gevorderd,7,2,Tijdens je onderzoek blijf je alert op nieuwe ontwikkelingen en probeer je in te schatten of die zinvol zijn voor je eigen onderzoek.
+prc_08.2,proces,prc,gevorderd,8,2,Je houdt de aanwezige documentatie up to date.
+prc_01.3,proces,prc,expert,1,3,Jij kunt je team duidelijk maken wanneer er niet volgens de regels gewerkt wordt.
+prc_02.3,proces,prc,expert,2,3,"Je hebt oog voor detail, alles wat gevraagd wordt lever je aan."
+prc_03.3,proces,prc,expert,3,3,Vanuit een totaalbeeld maak je jouw keuzes waarvan je de gevolgen goed kunt inschatten.
+prc_04.3,proces,prc,expert,4,3,"Je kunt met iedereen, begrijpelijk, communiceren over je onderzoek. Het maakt niet uit of je een basisschool leerling uitleg moet geven of de opdrachtgever. Iedereen kan jou begrijpen."
+prc_05.3,proces,prc,expert,5,3,Tijdens een onderzoek houd je altijd ogen en oren open voor nieuwe ontwikkelingen. Je kunt vrij snel overzien of deze voor jou relevant zijn en past je eigen onderzoek hierop aan.
+prc_06.3,proces,prc,expert,6,3,Je weet wat documenteren is: je bezit alle relevante info en kunt die feilloos terugvinden.
+ken_01.1,kennis,ken,basis,1,1,Je probeert een literatuuronderzoek te doen voordat je begint aan je opdracht.
+ken_02.1,kennis,ken,basis,2,1,Jouw literatuuronderzoek bevat nuttige informatie.
+ken_03.1,kennis,ken,basis,3,1,Je bent leergierig en verzamelt graag kennis.
+ken_04.1,kennis,ken,basis,4,1,Je doet graag onderzoek om meer te leren.
+ken_05.1,kennis,ken,basis,5,1,Je doet je best en gaat moeilijke informatie niet uit de weg.
+ken_06.1,kennis,ken,basis,6,1,Je probeert bij te leren en nog beter te worden.
+ken_07.1,kennis,ken,basis,7,1,Je komt met informatie die anderen niet hebben.
+ken_08.1,kennis,ken,basis,8,1,Je vindt het leuk als jij iets ontdekt hebt dat anderen nog niet ontdekt hebben.
+ken_09.1,kennis,ken,basis,9,1,Je probeert in alles kwaliteit te leveren.
+ken_10.1,kennis,ken,basis,10,1,Je hebt belangstelling voor waar anderen mee bezig zijn.
+ken_11.1,kennis,ken,basis,11,1,Je weet waar anderen mee bezig zijn.
+ken_12.1,kennis,ken,basis,12,1,Je wilt graag weten wat anderen hebben geleerd zodat jij deze kennis ook kunt bezitten.
+ken_13.1,kennis,ken,basis,13,1,Je kunt literatuurvragen beantwoorden.
+ken_01.2,kennis,ken,gevorderd,1,2,Je verdiept je in de opdracht en zoekt hier literatuur bij. Je kunt van deze informatie een samenvatting schrijven.
+ken_02.2,kennis,ken,gevorderd,2,2,Jouw literatuuronderzoek bevat veel nuttige informatie.
+ken_03.2,kennis,ken,gevorderd,3,2,Je doet navraag of anderen wellicht een vergelijkbaar onderzoek hebben gedaan en verdiept je eerst in deze resultaten.
+ken_04.2,kennis,ken,gevorderd,4,2,Je verzamelt kennis uit betrouwbare bronnen.
+ken_05.2,kennis,ken,gevorderd,5,2,Je beoordeelt de gegevens uit het onderzoek van derden.
+ken_06.2,kennis,ken,gevorderd,6,2,Je denkt na:  je probeert  verbanden te leggen of patronen te ontdekken.
+ken_07.2,kennis,ken,gevorderd,7,2,Je kunt met een onderzoek  zinvolle informatie naar boven halen.
+ken_08.2,kennis,ken,gevorderd,8,2,Je probeert altijd bij te leren en nog beter te worden.
+ken_09.2,kennis,ken,gevorderd,9,2,Je probeert in alles kwaliteit te leveren. Dit eis je ook van jezelf.
+ken_10.2,kennis,ken,gevorderd,10,2,Je weet altijd waar anderen mee bezig zijn.
+ken_11.2,kennis,ken,gevorderd,11,2,Je kunt inschatten of anderen misschien beter bezig zijn dan jij.
+ken_12.2,kennis,ken,gevorderd,12,2,Je hebt bewondering als anderen iets weten wat jij niet weet.
+ken_13.2,kennis,ken,gevorderd,13,2,Je beantwoordt de opgestelde literatuurvragen op een dusdanige manier dat duidelijk wordt dat jij weet waar je het over hebt.
+ken_01.3,kennis,ken,expert,1,3,Je verdiept je in de opdracht en zoekt hier literatuur bij. Je kunt van deze informatie een samenvatting schrijven die je teamgenoten begrijpen.
+ken_02.3,kennis,ken,expert,2,3,Jouw literatuuronderzoek bevat alleen nuttige informatie.
+ken_03.3,kennis,ken,expert,3,3,Je doet navraag of anderen wellicht een vergelijkbaar onderzoek hebben gedaan en verdiept je eerst in deze resultaten. Je bouwt verder op de resultaten van anderen.
+ken_04.3,kennis,ken,expert,4,3,Je verzamelt kennis uit anderstalige betrouwbare bronnen.
+ken_05.3,kennis,ken,expert,5,3,Je verzamelt snel en kritisch de voor jou relevante en betrouwbare kennis.
+ken_06.3,kennis,ken,expert,6,3,Je denkt na: je legt verbanden en ontdekt patronen.
+ken_07.3,kennis,ken,expert,7,3,Je levert in alles kwaliteit. Dit eis je ook altijd van jezelf.
+ken_08.3,kennis,ken,expert,8,3,"Je weet waar anderen mee bezig zijn,  je kunt dit op de juiste waarde schatten en hier eventueel voor jou bruikbare informatie uithalen."
+ken_09.3,kennis,ken,expert,9,3,Jij zorgt er altijd voor dat jij je kennis deelt met anderen en anderen hun kennis delen met jou.
+ken_10.3,kennis,ken,expert,10,3,Jij kunt literatuurvragen zo beantwoorden dat jouw taal aansluit bij de doelgroep van de opdracht en jij ook nog weet waar je het over hebt.
+dzt_01.1,doorzetten,dzt,basis,1,1,Je  probeert altijd je werk goed te doen en afspraken na te komen.
+dzt_02.1,doorzetten,dzt,basis,2,1,"Je vindt kritiek niet leuk, maar je voelt je niet aangevallen en blijft positief"
+dzt_03.1,doorzetten,dzt,basis,3,1,Je wordt niet boos als je kritiek krijgt.
+dzt_04.1,doorzetten,dzt,basis,4,1,Als je iets niet weet ga je op zoek naar het antwoord.
+dzt_05.1,doorzetten,dzt,basis,5,1,Je vraagt alleen om hulp als je het zelf geprobeerd hebt.
+dzt_06.1,doorzetten,dzt,basis,6,1,"Je vindt het niet leuk als je ongelijk hebt, maar blijft wel positief"
+dzt_07.1,doorzetten,dzt,basis,7,1,"Je probeert kalm te blijven tijdens je werk, maar soms lukt dat niet."
+dzt_01.2,doorzetten,dzt,gevorderd,1,2,Je probeert altijd je werk goed te doen en afspraken na te komen.
+dzt_02.2,doorzetten,dzt,gevorderd,2,2,"Ook als je geen zin hebt,  ga je aan het werk of kom je je afspraak na. Maar dat kost moeite."
+dzt_03.2,doorzetten,dzt,gevorderd,3,2,Je laat je niet van de wijs brengen door kritiek. Je denkt er wel over na.
+dzt_04.2,doorzetten,dzt,gevorderd,4,2,Je kunt goed tegen kritiek en probeert er van te leren.
+dzt_05.2,doorzetten,dzt,gevorderd,5,2,Je kunt makkelijk toegeven dat je ongelijk had.
+dzt_06.2,doorzetten,dzt,gevorderd,6,2,"Je weet dat je niet alle kennis hebt, anderen kunnen meer weten en daar heb je geen moeite mee"
+dzt_07.2,doorzetten,dzt,gevorderd,7,2,"Je gaat kalm en bedachtzaam te werk, maar af en toe kost je dat wel moeite"
+dzt_09.2,doorzetten,dzt,gevorderd,9,2,Je vraagt alleen om hulp als je het zelf geprobeerd hebt en je er na een redelijke tijd echt niet uitgekomen bent.
+dzt_01.3,doorzetten,dzt,expert,1,3,Je bent erg gedisciplineerd: Het werk gaat boven alles en afspraken zijn heilig.
+dzt_02.3,doorzetten,dzt,expert,2,3,Je kunt zelf inschatten waar je kritiek op gaat krijgen en probeert het voor te zijn. Als je dan toch kritiek krijgt kijk je heel nauwkeurig of je de kritiek in je voordeel kunt gebruiken.
+dzt_03.3,doorzetten,dzt,expert,3,3,Je weet dat het eindresultaat telt en dat fouten maken erbij hoort. Je gaat door met je onderzoek.
+dzt_04.3,doorzetten,dzt,expert,4,3,Je bent altijd kalm en bedachtzaam. Je weet dat dat de beste manier is.
+dzt_05.3,doorzetten,dzt,expert,5,3,Je kunt je kalme en bedachtzame manier van werken overbrengen op anderen in je team.
